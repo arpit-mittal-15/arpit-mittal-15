@@ -1,4 +1,4 @@
-# 💫 About Me: Hey I am Arpit
+# 💫 Hey I am Arpit
 🌱 I am currently working on JS, TS & MERNstack projects.<br>👨‍💻 All of my projects are available at https://github.com/arpit-mittal-15<br>📫 How to reach me arpitmittaldhn@gmail.com
 
 
