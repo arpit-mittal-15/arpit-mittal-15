@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am currently working on JS, TS & MERNstack projects.<br>👨‍💻 All of my projects are available at github.com/arpit-mittal-15<br>📫 How to reach me arpitmittaldhn@gmail.com
+🌱 I am currently working on JS, TS & MERNstack projects.<br>👨‍💻 All of my projects are available at https://github.com/arpit-mittal-15<br>📫 How to reach me arpitmittaldhn@gmail.com
 
 
 ## 🌐 Socials:
