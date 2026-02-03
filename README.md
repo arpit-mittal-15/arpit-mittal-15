@@ -1,5 +1,5 @@
 # 💫 Hey, I am Arpit
-🌱 I am currently working on JS, TS & MERNstack projects.<br>🧩 Solved 200+ problems on LeetCode<br>👨‍💻 All of my projects are available at https://github.com/arpit-mittal-15<br>📫 How to reach me arpitmittaldhn@gmail.com
+🌱 I am currently working on Full Stack Development.<br>🧩 Solved 300+ problems on LeetCode<br>👨‍💻 All of my projects are available at https://github.com/arpit-mittal-15<br>📫 How to reach me arpitmittaldhn@gmail.com
 
 
 ## 🌐 Socials:
